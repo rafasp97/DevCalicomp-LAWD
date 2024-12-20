@@ -2,6 +2,7 @@
 
 Bem-vindo ao repositório do site do **Calicomp**! 🚀  
 Este projeto será o **site oficial** do **Centro Acadêmico Livre de Computação** da **Universidade Federal de Sergipe (UFS)**, criado com o objetivo de representar e divulgar as ações da nossa comunidade acadêmica. 
+
 O site tem como finalidade apresentar informações relevantes sobre eventos, cursos, projetos e tudo o que acontece dentro do **Departamento de Computação (DComp)** da UFS.
 
 Foi o **primeiro projeto web** desenvolvido junto com meus colegas da **Liga Acadêmica de Desenvolvimento Web (LAWD)**, sendo uma experiência enriquecedora de aprendizado e colaboração. 
@@ -32,14 +33,16 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ## 📋 Metodologia Ágil
 
 Este projeto foi desenvolvido com o uso da metodologia ágil **Scrum**, que ajudou a organizar as tarefas e manter o time focado nas entregas. 
+
 Utilizamos o **Trello** como ferramenta para gerenciamento de tarefas, facilitando a visualização do progresso e a divisão das responsabilidades.
 
-- **Scrum Masters**: **Gyovani** e **Letícia**. Com mais experiência em desenvolvimento web, eles assumiram o papel de facilitar o time e organizar as sprints.  
+- **Scrum Masters**: **Gyovani** e **Letícia**. Com mais experiência em desenvolvimento web, eles assumiram o papel de facilitar o time e organizar as sprints.
 - **Desenvolvedores**: **Rafael** e **Wanessa**. Focamos no desenvolvimento das funcionalidades do site, implementando as tecnologias HTML, CSS e JavaScript.
 
 ## 🤝 Agradecimentos
 
 Este foi o **primeiro projeto web** dos desenvolvedores Rafael e Wanessa, e não poderiamos estar mais feliz com o resultado! 🎉 
+
 Foi uma experiência incrível poder trabalhar com meus colegas da **Liga Acadêmica de Desenvolvimento Web (LAWD)**, que nos ajudaram a aprender, crescer e aprimorar nossas habilidades de desenvolvimento web. 
 
 Este projeto foi uma excelente oportunidade de aplicar conhecimentos adquiridos na prática e uma experiência única de trabalho em equipe. 🙏
