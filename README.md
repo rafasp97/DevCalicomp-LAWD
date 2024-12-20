@@ -1,6 +1,6 @@
 # Calicomp - Centro Acadêmico Livre de Computação (UFS) 🌐💻
 
-Bem-vindo ao repositório do **Calicomp**! 🚀  
+Bem-vindo ao repositório do site do **Calicomp**! 🚀  
 Este projeto será o **site oficial** do **Centro Acadêmico Livre de Computação** da **Universidade Federal de Sergipe (UFS)**, criado com o objetivo de representar e divulgar as ações da nossa comunidade acadêmica. 
 O site tem como finalidade apresentar informações relevantes sobre eventos, cursos, projetos e tudo o que acontece dentro do **Departamento de Computação (DComp)** da UFS.
 
