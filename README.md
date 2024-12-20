@@ -41,7 +41,7 @@ Utilizamos o **Trello** como ferramenta para gerenciamento de tarefas, facilitan
 
 ## 🤝 Agradecimentos
 
-Este foi o **primeiro projeto web** dos desenvolvedores Rafael e Wanessa, e não poderiamos estar mais feliz com o resultado! 🎉 
+Esse foi o **primeiro projeto web** dos desenvolvedores Rafael e Wanessa, e não poderiamos estar mais feliz com o resultado! 🎉 
 
 Foi uma experiência incrível poder trabalhar com meus colegas da **Liga Acadêmica de Desenvolvimento Web (LAWD)**, que nos ajudaram a aprender, crescer e aprimorar nossas habilidades de desenvolvimento web. 
 
